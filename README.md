@@ -1,4 +1,4 @@
-# Selection Sort sıralama algoritmasının Assembly kodu!
+# [TR] Selection Sort sıralama algoritmasının Assembly kodu! 
 
 - Bu assembly kodunda, bellekte kendi belirlediğiniz alanlara 10 tane birer byte’lık rastgele işaretsiz sayı
 yerleştirirsiniz. 
@@ -9,7 +9,12 @@ yerleştirirsiniz.
 
 
 
-# Assembly code of the Selection Sort sorting algorithm!
+
+
+
+
+
+# [EN] Assembly code of the Selection Sort sorting algorithm!
 
 In this assembly code, it has its own memory in memory 10 one-byte random unsigned numbers are added to the fields you specify you place it.
 
